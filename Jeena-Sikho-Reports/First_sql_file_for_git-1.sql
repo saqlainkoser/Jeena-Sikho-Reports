@@ -1,0 +1,1 @@
+Select * from `tab SalesOrder` limit 10
