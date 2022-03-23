@@ -1,0 +1,24 @@
+{
+ "add_total_row": 1,
+ "creation": "2022-03-09 14:52:27.926595",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "idx": 0,
+ "is_standard": "Yes",
+ "modified": "2022-03-10 10:52:47.528705",
+ "modified_by": "Administrator",
+ "module": "Cheating",
+ "name": "All Over Wise Date Wise Month Wise",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Courier",
+ "report_name": "All Over Wise Date Wise Month Wise",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ]
+}
